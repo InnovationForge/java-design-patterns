@@ -1,5 +1,8 @@
 # Adapter Design Pattern
 
+Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
+
+
 My sincere apologies for the oversight! Thank you for catching that mistake. Let's correct it. Here's the updated description:
 
 ## Universal Plug Problem
