@@ -36,5 +36,6 @@ Source: Conversation with Bing, 16/05/2024
 ## Structural Patterns
 
 * [Decorator Pattern](doc/decorator.md)
+* [Adapter Pattern](doc/adapter.md)
 
 ## Behavioral Patterns
